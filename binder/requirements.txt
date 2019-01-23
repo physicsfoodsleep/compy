@@ -2,6 +2,5 @@
 numpy
 vpython
 matplotlib
-rootfinder
 math
 ode
