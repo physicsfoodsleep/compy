@@ -1,3 +1,7 @@
 
 numpy
 vpython
+matplotlib.pyplot
+rootfinder
+math
+ode
