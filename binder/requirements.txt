@@ -2,5 +2,4 @@
 numpy
 vpython
 matplotlib
-math
 ode
